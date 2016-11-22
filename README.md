@@ -9,4 +9,6 @@ This is a simple benchmark that compares images sizes and performance between PH
 
 ## Result
 
-![Result](./results/result.svg)
+![Result](https://cdn.rawgit.com/moee/go-vs-php/master/results/result.svg)
+
+Full results are in [results](https://github.com/moee/go-vs-php/master/results/)
