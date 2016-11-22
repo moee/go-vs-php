@@ -1,7 +1,7 @@
 # go-vs-php
 Microservice Benchmark Go vs PHP
 
-This is a simple benchmark that compares images sizes and performance between PHP and go.
+This is a simple benchmark that compares images sizes and performance between PHP and go. All it does is printing a single line, so it's not representative for larger scripts. 
 
 ## Run it
 
