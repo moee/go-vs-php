@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS                NAMES               SIZE
+0213ca1d6281        govsphp:go          "/main"             10 seconds ago      Up 10 seconds       0.0.0.0:80->80/tcp   go-vs-php           0 B (virtual 6.687 MB)
