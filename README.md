@@ -9,4 +9,4 @@ This is a simple benchmark that compares images sizes and performance between PH
 
 ## Result
 
-
+![Result](./results/result.svg)
